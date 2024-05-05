@@ -1,0 +1,41 @@
+Le but de ce projet est de concevoir et de développer un portfolio web personnel. Un portfolio est un outil essentiel pour tout professionnel cherchant à présenter son travail, ses compétences et son expérience de manière attrayante et professionnelle. Votre portfolio servira de vitrine pour mettre en valeur vos réalisations passées et présenter votre parcours académique et professionnel aux employeurs potentiels. Le site inclut une fonctionnalité de forum de discussion permettant aux visiteurs de commenter et de poser des questions sur le ou les projets exposés.
+
+Fonctionnalités attendues :
+
+    Page d'accueil : pour présenter brièvement qui vous êtes, ce que vous faites et ce que vous avez à offrir.
+
+    Section "À Propos" : pour vous présenter en détail, incluant votre parcours académique, vos compétences, vos intérêts et vos objectifs professionnels.
+
+    Section "Portfolio" : pour lister vos projets passés (un au minimum), avec une brève description de chaque projet, et si possible des captures d'écran ou des liens vers les projets en ligne si disponibles.
+
+    Section "Expérience professionnelle" : pour lister vos expériences professionnelles passées.
+
+    Section "Formation" : pour lister votre formation académique, incluant les diplômes obtenus, les établissements fréquentés et les années d'obtention.
+
+    Section "Contact" : un formulaire de contact permettant aux visiteurs de vous contacter directement par email et par le biais des réseaux sociaux.
+
+    Forum de discussion : une plateforme de discussion où les visiteurs peuvent commenter et poser des questions sur le(les) projet(s) exposé(s). Les utilisateurs doivent pouvoir créer un compte ou se connecter pour participer au forum.
+
+    Design responsive : assurez-vous que votre portfolio est entièrement responsive, c'est-à-dire qu'il s'adapte de manière optimale à tous les types d'appareils (ordinateurs de bureau, tablettes, smartphones, etc.).
+
+Technologies requises :
+
+    HTML/CSS pour la structure et le style du site web.
+    JavaScript pour l'interactivité.
+    Un framework CSS comme Bootstrap peut être utilisé pour faciliter le développement responsive.
+    Un hébergement web pour déployer votre portfolio en ligne (voir les sites d'hébergement gratuit en ligne).
+
+Livraison :
+
+Le projet sera livré sous forme de site web fonctionnel, hébergé en ligne. Vous devrez également fournir une documentation, sous forme d'un tutoriel, décrivant les différentes fonctionnalités du portfolio, les étapes de la création de votre site, ainsi que les technologies utilisées et les instructions pour l'installation et la mise en ligne du site.
+
+Critères d'évaluation :
+
+    Qualité et clarté de votre code. 
+    Qualité du design et de l'expérience utilisateur.
+    Complétude et pertinence des informations fournies.
+    Fonctionnalités implémentées et interactivité du site web.
+    Niveau de responsivité et compatibilité avec les différents navigateurs.
+    Documentation claire et explicative du projet.
+
+Date limite de remise : le 28 avril 2024.
